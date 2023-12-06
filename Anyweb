@@ -1,0 +1,2 @@
+set wshshell = wscript.CreateObject("wscript.shell")
+wshshell.run "chrome.exe https://github.com"
